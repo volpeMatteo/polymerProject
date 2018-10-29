@@ -1,6 +1,5 @@
 import {html, PolymerElement} from '@polymer/polymer/polymer-element.js';
 import '@polymer/iron-input/iron-input.js';
-import '@polymer/polymer/polymer-legacy.js';
 
 class AppMessage extends PolymerElement {
   static get template() {
