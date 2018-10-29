@@ -1,5 +1,5 @@
-import {html, PolymerElement} from '@polymer/polymer/polymer-element.js';
-import '@polymer/iron-input/iron-input.js';
+import {html, PolymerElement} from '../@polymer/polymer/polymer-element.js';
+import '../@polymer/iron-input/iron-input.js';
 
 class AppMessage extends PolymerElement {
   static get template() {
